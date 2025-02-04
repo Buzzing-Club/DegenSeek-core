@@ -1,1 +1,1 @@
-# DegenSeek-core
+# DegenSeek
